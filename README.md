@@ -1,7 +1,9 @@
 # Shuffle-And-Sort-Application
-# About the application: The Page consists of 9 numbered cards which can be manipulated by using the shuffle and sort button.
+# About the application:
+The Page consists of 9 numbered cards which can be manipulated by using the shuffle and sort button.
 
-# Steps for executing the application:download the file or clone it in your local, this is single file saved with .html extension once it is downloaded at your local,
+# Steps for executing the application:
+download the file or clone it in your local, this is single file saved with .html extension once it is downloaded at your local,
 Just right click on the file name and openwith chrome browser.
 
 # Functionality: 
